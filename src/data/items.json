@@ -1,26 +1,131 @@
 [
     {
       "id": 1,
-      "name": "Book",
-      "price": 10.99,
-      "imgUrl": "images/book.jpg"
+      "brand": "Blast Skates ",
+      "model": "Dreyfus Art",
+      "size": 9.5,
+      "price": 69.95,
+      "imgUrl": "https://blacksheepstore.co.uk/cdn/shop/files/4a7fab1c-18dc-4a69-8575-fa16caf49395.jpg?crop=center&height=823&v=1686823229&width=823"
     },
     {
       "id": 2,
-      "name": "Computer",
-      "price": 1199,
-      "imgUrl": "images/computer.jpg"
-    },
-    {
+      "brand": "Heroin", 
+      "model": "Tom Day Die Tonight",
+      "size": 8.88,
+      "price": 59.99,
+      "imgUrl": "https://blacksheepstore.co.uk/cdn/shop/files/be7228ef-be09-4358-bd3e-1630c49ae4b9.jpg?crop=center&height=990&v=1690989168&width=990"
+      },      
+      {
       "id": 3,
-      "name": "Banana",
-      "price": 1.05,
-      "imgUrl": "images/banana.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Car",
-      "price": 14000,
-      "imgUrl": "images/car.jpg"
-    }
-  ]
+      "brand": "Anti Hero",
+      "model":  "Joe Buffalo",
+      "size": 8.5,
+      "price": 70.00,
+      "imgUrl": "https://blacksheepstore.co.uk/cdn/shop/files/4802db42-286e-4b0a-882f-ec574f692e78.jpg?crop=center&height=823&v=1690893512&width=823 "
+      },   
+      {
+        "id": 4,
+        "brand": "Arbor",
+        "model":  "Greyson Disguised",
+        "size": 8.25,
+        "price": 59.95,
+        "imgUrl": "https://blacksheepstore.co.uk/cdn/shop/files/e36406b6-76f8-43d3-a304-f7522d8da1fc.jpg?v=1689599896"
+        },
+        {
+          "id": 5,
+          "brand": "Creature",
+          "model":  "Partanen Space Hesh",
+          "size": 8.8,
+          "price": 59.95,
+          "imgUrl": "https://blacksheepstore.co.uk/cdn/shop/files/89feff8c-9895-42d9-9120-f97178682227.jpg?crop=center&height=823&v=1689599899&width=823"
+          },
+          {
+            "id": 6,
+            "brand": "Madness",
+            "model":  "Stressed",
+            "size": 8.5,
+            "price": 54.95,
+            "imgUrl": "https://blacksheepstore.co.uk/cdn/shop/products/06162ba57757ad1695c7ebeb90c23a40.jpg?crop=center&height=823&v=1678755391&width=823"
+            },
+            {
+              "id": 7,
+              "brand": "Krooked",
+              "model": "Manderson Paralel",
+              "size": 8.38,
+              "price": 49.99,
+              "imgUrl": "https://blacksheepstore.co.uk/cdn/shop/files/f31599cd-3f95-4f3f-b996-7ecaab6a6bc6.jpg?crop=center&height=823&v=1686555080&width=823"
+            },
+            {
+              "id": 8,
+              "brand": "Santa Cruz",
+              "model": "Classic Dot",
+              "size": 8.25,
+              "price": 55.00,
+              "imgUrl": "https://example.com/path/to/image8.jpg"
+            },
+            {
+              "id": 9,
+              "brand": "Enjoi",
+              "model": "Whitey Panda",
+              "size": 7.75,
+              "price": 44.95,
+              "imgUrl": "https://example.com/path/to/image9.jpg"
+            },
+            {
+              "id": 10,
+              "brand": "Zero",
+              "model": "Thomas Iconic",
+              "size": 8.125,
+              "price": 49.95,
+              "imgUrl": "https://example.com/path/to/image10.jpg"
+            },
+            {
+              "id": 11,
+              "brand": "Toy Machine",
+              "model": "Fist Large",
+              "size": 8.25,
+              "price": 52.50,
+              "imgUrl": "https://blacksheepstore.co.uk/cdn/shop/files/ad7091fd-14ba-449c-b936-de4ab6684840.jpg?crop=center&height=823&v=1686038757&width=823"
+            },
+            {
+              "id": 12,
+              "brand": "Almost",
+              "model": "Yuri Crying",
+              "size": 7.875,
+              "price": 47.95,
+              "imgUrl": "https://example.com/path/to/image12.jpg"
+            },
+            {
+              "id": 13,
+              "brand": "Blind",
+              "model": "OG Watercolor",
+              "size": 8.25,
+              "price": 48.99,
+              "imgUrl": "https://example.com/path/to/image13.jpg"
+            },
+            {
+              "id": 14,
+              "brand": "Powell Peralta",
+              "model": "Ripper",
+              "size": 8.375,
+              "price": 54.00,
+              "imgUrl": "https://example.com/path/to/image14.jpg"
+            },
+            {
+              "id": 15,
+              "brand": "Real",
+              "model": "Renewed Oval",
+              "size": 8.0,
+              "price": 49.95,
+              "imgUrl": "https://example.com/path/to/image15.jpg"
+            },
+            {
+              "id": 16,
+              "brand": "Chocolate",
+              "model": "Chunk",
+              "size": 8.125,
+              "price": 52.95,
+              "imgUrl": "https://example.com/path/to/image16.jpg"
+            }
+
+]
