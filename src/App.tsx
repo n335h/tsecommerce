@@ -15,8 +15,6 @@ function App() {
    <ShoppingCartProvider>
    <Navbar />
       <Container className='mb-4'>
-        <h1>App</h1>
-
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />

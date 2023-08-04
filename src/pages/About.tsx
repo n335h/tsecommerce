@@ -1,3 +1,11 @@
 export function About() {
-    return <h1>About</h1>
-}
+    return (
+    <>
+  <h1>About Ride</h1>
+    {/* <p> Born in Coventry, 1967, Paul Atkins (aka Jim the Skin) bought his first skateboard at the age of 9. Like everyone else, he skated up and down the street and in local parks. He stopped skating around the age of 16 and got into BMX for a while. He managed to land a job for about 6 months doing BMX Freestyle displays all around the UK for Peugeot Levis. "Every show I did involved riding trick ramps and quarter pipes so I got the idea to take a skateboard around with me and skate the ramps after the shows had finished. After those 6 months, that was it...I was fully back into skateboarding and havent stopped since" says Paul.</p>
+    <p> At the age of 22, he started travelling around the country, entering the ESA Competitions (The English Skateboarding Association), worked his way up through the ‘B’ Group, winning a few of the competitions and the overall series. He then moved into the ‘A’ Group and skated alongside the likes of Sean Goff, Lucien Hendricks, Mark and Barry Abrook and Phil Burgoyne, Davie Phllip etc., At the time he was sponsored by Converse, Cowabunga Clothing, Deathbox Wheels and shortly for Brand X before moving to the now legendary Zorlac Skateboards out of Texas.</p>
+    <p> Over the years he has been chosen to skate demos, taken part in television commercials, and entered competitions all over the world. Most recently, he has entered most of the Masters Competitions held by World Cup Skateboarding; Marseilles Bowl Riders, Bondi Bowl Comp., Sweden Ultra Bowl and the Vans Warp Tour, London. As there are not too many Masters Competitions run out of the UK, he still continues to enter regional Vert Comps such as Mount Hawk, Blackpool, Corby, Birmingham etc., still sessions two or three times a week at Creation Skatepark in Birmingham and constantly travels the UK and Europe skating a lot of the new parks that are being built...Paul even had a hand in designing the Holbrooks Bowl, just down the road from the shop.  His passion for skateboarding is as strong now as it ever was. He still lives in Coventry where he owns and runs Ride Skateboards/BMX shop with his brother, Darren.</p>
+     */}
+</>
+    )
+}   

@@ -6,14 +6,12 @@ import { useShoppingCart } from "../context/ShoppingCartContext"
 
 type StoreItemProps = {
     id: number
-    brand: string
-    model: string
+    item: string
     price: number
-    size: number
     imgUrl: string
   }
   
-  export function StoreItem({ id, brand, model, price, size, imgUrl }: StoreItemProps) {
+  export function StoreItem({ id, item, price, imgUrl }: StoreItemProps) {
     const {
       getItemQuantity,
       increaseCartQuantity,
@@ -32,11 +30,11 @@ type StoreItemProps = {
         />
         <Card.Body className="d-flex flex-column">
           <Card.Title className="d-flex justify-content-between align-items-baseline mb-4">
-            <span className="fs-6">{brand} {size}</span>
-            <span className="ms-2 text-muted">{FormatCurrency(price)}</span>
+            <span className="fs-6">{item} </span>
+           
            
           </Card.Title>
-          <h2 className="fs-6">{model}</h2>
+          
           <div className="mt-auto">
             {quantity === 0 ? (
               <Button className="w-100" onClick={() => increaseCartQuantity(id)}>
